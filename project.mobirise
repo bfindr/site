@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "professionals.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1103,7 +1103,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Keep posted !</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Keep me posted !</a>",
           "title": "Mobile App available summer 2017",
           "text": "Download exclusively on \"App Store\" and \"Google Play\" stores"
         }
