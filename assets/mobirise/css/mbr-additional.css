@@ -781,6 +781,12 @@ h6,
 #menu-z .close-icon::after {
   background-color: #ffffff;
 }
+#contacts1-1w P {
+  color: #000000;
+}
+#contacts1-1w STRONG {
+  color: #009ee3;
+}
 #features7-1b .card-subtitle {
   color: #faaf40;
 }
