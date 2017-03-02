@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "why.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -465,7 +465,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-263x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "http://www.bfindr.com",
