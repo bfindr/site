@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "organizers.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -48,7 +48,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#cccccc"
+              "color": "#bfd541"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
@@ -76,7 +76,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">The </span>key<div><span style=\"font-weight: normal;\">to entering the business network of a metropolis...</span></div>",
+          "title": "<span style=\"font-weight: normal;\">T</span>he<span style=\"font-weight: normal;\"> </span>key<div><span style=\"font-weight: normal;\">to entering the business network of a metropolis...</span></div>",
           "text": "Discover Premium Access to targeted business events",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
         },
