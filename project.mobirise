@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 76,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -2009,7 +2009,7 @@
             }
           },
           "_name": "menu",
-          "_anchor": "menu-1y",
+          "_anchor": "menu-24",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.15",
@@ -2048,7 +2048,7 @@
         },
         {
           "_name": "footer1",
-          "_anchor": "footer1-1z",
+          "_anchor": "footer1-25",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -2082,7 +2082,7 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-23",
+          "_anchor": "content5-26",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "0",
@@ -2109,7 +2109,12 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-22",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content7-27",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 1,
@@ -2117,12 +2122,7 @@
           },
           "text1": "<h1>1-COMPILE</h1><p><b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).</p><p><b>bfindr does the compiling work for you.</b></p><p>​</p><p>We offer <b>easy access to the most complete event agenda</b> to this day, currently using up to 800 sources in greater Montreal to provide a unique service.</p>",
           "text2": "<h1>2-SELECT</h1><p><b>Accessible information, efficiently.</b></p><p>Made richer everyday, thanks to our compiling groundwork ...</p><p>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b></p><p>​</p><p><b>Made simple and effective with our ECR index.</b> Easy visualization with an event compatability pourcentage. Matching you to your event objectives!</p>",
-          "text3": "<h1>3-SIMPLIFY</h1><p><b>Facilitate access to information &amp; facilitate participation to the right events ...</b></p><p>​</p><p><b>Professional users and companies:</b></p><p>Buy tickets on the main platforms and register for events in one click.</p><p>Automatically transfer profile information useful to the organizer or service provider.</p><p>Reserve transportation and calculate itineraries.</p><p>​</p><p><b>Organizers:</b></p><p>Capacity to determine the best date for your event.</p><p>Check and reserve the best suited and available venues.</p><p>Personalize your event details and target invitee profiles for a successful event.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            }
-          }
+          "text3": "<h1>3-SIMPLIFY</h1><p><b>Facilitate access to information &amp; facilitate participation to the right events ...</b></p><p>​</p><p><b>Professional users and companies:</b></p><p>Buy tickets on the main platforms and register for events in one click.</p><p>Automatically transfer profile information useful to the organizer or service provider.</p><p>Reserve transportation and calculate itineraries.</p><p>​</p><p><b>Organizers:</b></p><p>Capacity to determine the best date for your event.</p><p>Check and reserve the best suited and available venues.</p><p>Personalize your event details and target invitee profiles for a successful event.</p>"
         }
       ]
     }
