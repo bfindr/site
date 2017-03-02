@@ -803,7 +803,6 @@ h6,
 }
 
 
-
 #msg-box5-1f H3 {
   color: #ffffff;
   text-align: left;
@@ -883,15 +882,14 @@ h6,
 #menu-1g .close-icon::after {
   background-color: #ffffff;
 }
-#features7-1u .card-subtitle {
+#features7-1v .card-subtitle {
   color: #faaf40;
-  font-family: 'Roboto', sans-serif;
 }
-#features7-1u .iconbox {
+#features7-1v .iconbox {
   background-color: #1386f4;
   border-color: #1386f4;
 }
-#features7-1u H4 {
+#features7-1v H4 {
   font-size: 22px;
 }
 #msg-box2-1j .mbr-section-title {
