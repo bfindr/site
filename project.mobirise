@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "what.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -219,7 +219,7 @@
               "font-size": "15px"
             },
             "H4": {
-              "font-size": "24px",
+              "font-size": "30px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
@@ -265,8 +265,8 @@
               "family": "et-line"
             }
           },
-          "title1": "Professionals<br><br>",
-          "subtitle1": "You are an ambitious professional, a student entering the marketplace, a new arrival to a city… <br><b>How do you build your network?</b><br>",
+          "title1": "Professionals<br>",
+          "subtitle1": "<span style=\"line-height: 1.7857;\">You are an ambitious professional, a student entering the marketplace, a new arrival to a city… </span><br><b>How do you build your network?</b><br>",
           "caption1": "<i>By participating at the right networking opportunities !</i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"professionals.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media2": {
@@ -279,7 +279,7 @@
               "family": "et-line"
             }
           },
-          "title2": "Companies<br><br>",
+          "title2": "Companies<br>",
           "subtitle2": "Your employees are networking already. <div><b>How do you make them your ambassadors,</b></div><div><b>and have them best represent your company at events?</b></div>",
           "caption2": "<i>By determining the events where you should be represented and sending the right person !</i>",
           "button2": "<a data-app-btn=\"true\" href=\"companies.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
@@ -293,7 +293,7 @@
               "family": "et-line"
             }
           },
-          "title3": "Organizers<br><br>",
+          "title3": "Organizers<br>",
           "subtitle3": "<span style=\"line-height: 1.7857;\">You are a professional business event organizer.<br>Your company, your association is creating an event.</span><br><span style=\"line-height: 1.7857;\"><b>How do you guarantee it’s success?</b></span><br>",
           "caption3": "<i>By ensuring the presence of the right people !</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"organizers.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
@@ -1950,6 +1950,47 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#bfd541",
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-26",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "bfindr, as easy as...",
+          "caption": "<p>1, 2, 3</p>"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -2062,47 +2103,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 bfindr."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "72px",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#bfd541",
-              "font-size": "30px",
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-26",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "bfindr, as easy as...",
-          "caption": "<p>1, 2, 3</p>"
         },
         {
           "_tags": [

@@ -507,7 +507,7 @@ h6,
   font-size: 15px;
 }
 #features6-1 H4 {
-  font-size: 24px;
+  font-size: 30px;
   font-family: 'Roboto', sans-serif;
 }
 #features6-1 B {
@@ -1002,6 +1002,19 @@ h6,
 }
 
 
+#content5-26 .mbr-section-title,
+#content5-26 p {
+  color: #fff;
+}
+#content5-26 .mbr-section-title {
+  font-size: 72px;
+  text-align: center;
+}
+#content5-26 P {
+  color: #bfd541;
+  font-size: 30px;
+  text-align: center;
+}
 #menu-24 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1070,19 +1083,6 @@ h6,
 #menu-24 .close-icon::before,
 #menu-24 .close-icon::after {
   background-color: #ffffff;
-}
-#content5-26 .mbr-section-title,
-#content5-26 p {
-  color: #fff;
-}
-#content5-26 .mbr-section-title {
-  font-size: 72px;
-  text-align: center;
-}
-#content5-26 P {
-  color: #bfd541;
-  font-size: 30px;
-  text-align: center;
 }
 #content7-27 P {
   font-size: 16px;
