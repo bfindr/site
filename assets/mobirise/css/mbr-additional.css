@@ -672,6 +672,7 @@ h6,
 }
 #content1-u P {
   color: #ffffff;
+  text-align: center;
 }
 #msg-box8-1r .mbr-section-title,
 #msg-box8-1r p {
@@ -683,12 +684,17 @@ h6,
 #content1-w P {
   color: #ffffff;
 }
-#header3-x .mbr-section-title,
-#header3-x .mbr-section-subtitle {
+#content1-w DIV {
+  color: #ffffff;
   text-align: center;
 }
-#header3-x H3 {
-  color: #009ee3;
+#msg-box8-1t .mbr-section-title,
+#msg-box8-1t p {
+  color: #fff;
+}
+#content1-y P {
+  color: #ffffff;
+  text-align: center;
 }
 
 
@@ -793,13 +799,15 @@ h6,
 }
 
 
+
 #msg-box5-1f H3 {
   color: #ffffff;
   text-align: left;
+  font-size: 72px;
 }
 #msg-box5-1f P {
-  color: #ffffff;
-  font-size: 25px;
+  color: #bfd541;
+  font-size: 30px;
   text-align: left;
 }
 #menu-1g .hide-buttons .nav-btn {
@@ -871,17 +879,15 @@ h6,
 #menu-1g .close-icon::after {
   background-color: #ffffff;
 }
-#features7-1i .card-subtitle {
+#features7-1u .card-subtitle {
   color: #faaf40;
+  font-family: 'Roboto', sans-serif;
 }
-#features7-1i .iconbox {
+#features7-1u .iconbox {
   background-color: #1386f4;
   border-color: #1386f4;
 }
-#features7-1i .card-subtitle I {
-  color: #faaf40;
-}
-#features7-1i H4 {
+#features7-1u H4 {
   font-size: 22px;
 }
 #msg-box2-1j .mbr-section-title {

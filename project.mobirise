@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "companies.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -660,13 +660,14 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_anchor": "content1-u",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#282828"
           },
           "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service, we are launching bfindr, a smart platform matching people to events.<br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
@@ -716,6 +717,10 @@
             },
             "P": {
               "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_anchor": "content1-w",
@@ -724,7 +729,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h3><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">You want to find new clients, markets, jobs or the dreamed of collaborator.</span><br><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Need to discover new providers and strategic partners ...</span><br><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Time is short, and selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</span></h3>"
+          "text": "You want to find new clients, markets, jobs or the dreamed of collaborator?<div>Need to discover new providers and strategic partners?</div><div>Time is short, and selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</div>"
         },
         {
           "_name": "footer1",
@@ -745,26 +750,37 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#009ee3"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-x",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1t",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": false
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Our \"ECR\" technology",
-          "meta": "By John Smith posted July 20, 2016"
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -775,9 +791,15 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#282828"
           },
-          "text": "<p>Today we offer a varied and exhaustive source of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.</p><p>The more you share with us, the better we can help you. Your objectives, professional profile, social media, ticketing accounts, etc. are utilized to provide you with the most pertinent index and simplify your registration process.</p>"
+          "text": "<p>Today we offer a varied and exhaustive source of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.</p><p>The more you share with us, the better we can help you. Your objectives, professional profile, social media, ticketing accounts, etc. are utilized to provide you with the most pertinent index and simplify your registration process.</p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -1166,17 +1188,18 @@
           "_styles": {
             "H3": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "72px"
             },
             "P": {
-              "color": "#ffffff",
-              "font-size": "25px",
+              "color": "#bfd541",
+              "font-size": "30px",
               "text-align": "left"
             }
           },
           "_anchor": "msg-box5-1f",
           "_params": {
-            "imageSize": "29",
+            "imageSize": "38",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
@@ -1200,7 +1223,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bfindr-ecran-v4-1-1400x2692.png",
+              "src": "@PROJECT_PATH@/assets/images/companies-1400x1219.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1219,7 +1242,7 @@
             }
           },
           "title": "Companies",
-          "text": "Feel the power of beeing at the right place,<br>at the right moment !",
+          "text": "Enhance your representation and gain control over your visibility!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1344,24 +1367,23 @@
           ],
           "_styles": {
             ".card-subtitle": {
-              "color": "#faaf40"
+              "color": "#faaf40",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".iconbox": {
               "background-color": "@primaryColor",
               "border-color": "@primaryColor"
-            },
-            ".card-subtitle I": {
-              "color": "#faaf40"
             },
             "H4": {
               "font-size": "22px"
             }
           },
           "_name": "features7",
-          "_anchor": "features7-1i",
+          "_anchor": "features7-1u",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": "2",
+            "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -1390,62 +1412,65 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": "",
+              "size": 0,
               "color": "#fff",
               "newWindow": false
             }
           },
-          "title1": "Sign in, create your profile",
-          "subtitle1": "<i>Log into your personnal account</i>",
-          "caption1": "Fill up your profile. The more informations you will give, the best matching we will garanty !",
+          "title1": "Register &amp; create your profile",
+          "subtitle1": "<i>Log into your company account</i>",
+          "caption1": "Create accounts for your company, services and employees.<br>Share your visibility objectives.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "setting",
+              "name": "success",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
-          "title2": "Select THE event",
-          "subtitle2": "<i>The most relevant events will be on top of your list</i>",
-          "caption2": "With the <b>ECR</b>, our exclusive graphic matching index (% of matching), you will select easily the best event to reach your professional objectives<br>",
+          "title2": "Select the events",
+          "subtitle2": "<i>Green means go!</i>",
+          "caption2": "Made simple and effective with our ECR index. Easy visualization with an event compatability pourcentage. Matching your company to the right events!",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "cursor-click",
+              "name": "user",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
-          "title3": "On clic \"To go \" !",
-          "subtitle3": "<i>Be part of it in one clic !</i>",
-          "caption3": "Easily register to the events, transmite the profile used to select the event to the organizers to maximize your chance to meet the good people",
+          "title3": "<p>Select the Ambassadors</p>",
+          "subtitle3": "Send the right one!",
+          "caption3": "Use employee profiles (ECR), centrally manage availabilities and registrations.<br>Coordinate and ensure the best representation.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "paperclip",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
-          "title4": "Meet the business heart of the city",
-          "subtitle4": "We garanty the good people will be there",
-          "caption4": "Now you measure the power of being at the right place at the right moment, and<br>you will never go again to a business event again by chance<br>",
+          "title4": "Collect feedback",
+          "subtitle4": "<i>Knowledge is power</i>",
+          "caption4": "Acquire and exploit vital off-market information by sharing event experiences.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1514,7 +1539,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Keep me posted !</a>",
-          "title": "Web App available Spring 2017",
+          "title": "Available Spring 2017",
           "text": ""
         }
       ]
@@ -1805,8 +1830,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "smile-face",
-              "family": "MobiriseIcons",
+              "name": "trophy",
+              "family": "et-line",
               "active": true,
               "link": "",
               "size": 0,
