@@ -2070,7 +2070,7 @@
           "_name": "content7",
           "_anchor": "content7-22",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -2098,7 +2098,7 @@
           "_anchor": "msg-box8-20",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
