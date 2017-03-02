@@ -593,7 +593,11 @@ h6,
   color: #fff;
 }
 #msg-box8-e .lead {
-  color: #ffffff;
+  color: #bfd541;
+  font-size: 30px;
+}
+#msg-box8-e .mbr-section-title {
+  font-size: 72px;
 }
 
 
