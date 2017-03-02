@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -575,6 +575,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#bfd541"
             }
           },
           "_tags": [
@@ -726,6 +729,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#bfd541"
             }
           },
           "_tags": [
@@ -802,6 +808,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#bfd541"
             }
           },
           "_tags": [
@@ -841,6 +850,14 @@
             "P": {
               "color": "#ffffff",
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
             }
           },
           "_anchor": "content1-y",
@@ -849,7 +866,7 @@
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>Today we offer a varied and exhaustive source of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.</p><p>The more you share with us, the better we can help you. Your objectives, professional profile, social media, ticketing accounts, etc. are utilized to provide you with the most pertinent index and simplify your registration process.</p>"
+          "text": "<p></p><p><span style=\"font-size: 17px; line-height: 25px;\"><b>Event Compatibility Ranking</b></span></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your objectives, professional social network existing profile (LinkedIn), ticketing platform accounts, etc... are utilized to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
         }
       ]
     },

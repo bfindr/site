@@ -605,6 +605,9 @@ h6,
 #msg-box8-1s p {
   color: #fff;
 }
+#msg-box8-1s .lead P {
+  color: #bfd541;
+}
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -682,6 +685,9 @@ h6,
 #msg-box8-1r p {
   color: #fff;
 }
+#msg-box8-1r .lead P {
+  color: #bfd541;
+}
 #content1-w H3 {
   color: #ffffff;
 }
@@ -696,9 +702,20 @@ h6,
 #msg-box8-1t p {
   color: #fff;
 }
+#msg-box8-1t .lead P {
+  color: #bfd541;
+}
 #content1-y P {
   color: #ffffff;
   text-align: center;
+}
+#content1-y SPAN {
+  color: #ffffff;
+  text-align: center;
+}
+#content1-y H2 {
+  text-align: center;
+  font-size: 25px;
 }
 
 
