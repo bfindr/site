@@ -896,10 +896,11 @@ h6,
 #msg-box5-1k H3 {
   color: #ffffff;
   text-align: left;
+  font-size: 72px;
 }
 #msg-box5-1k P {
-  color: #ffffff;
-  font-size: 25px;
+  color: #bfd541;
+  font-size: 30px;
   text-align: left;
 }
 #menu-1l .hide-buttons .nav-btn {
