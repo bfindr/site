@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -68,7 +68,7 @@
             "showButtons": true
           },
           "title": "The best way<div>to enter the business network of a metropolis...</div>",
-          "text": "Discover Premium access to targeted business events",
+          "text": "Discover Premium Access to targeted business events",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "_styles": {
             ".mbr-section-lead": {
@@ -658,9 +658,14 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#282828"
           },
-          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service we are launching bfindr in March 2017, a smart platform matching people to events. bfindr finds participants the ideal events and helps organizers unite the right people.</p>"
+          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service we are launching bfindr in March 2017, a smart platform matching people to events. bfindr finds participants the ideal events and helps organizers unite the right people.</p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -705,7 +710,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "bgColor": "#282828"
           },
           "text": "<h3><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">You want to find new clients, markets, jobs or the dreamed of collaborator.</span><br><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Need to discover new providers and strategic partners ...</span><br><span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Time is short, and selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</span></h3>",
           "_styles": {
