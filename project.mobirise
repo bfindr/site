@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "us.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -660,7 +660,7 @@
             "paddingBottom": "1",
             "bgColor": "#282828"
           },
-          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service we are launching bfindr in March 2017, a smart platform matching people to events. bfindr finds participants the ideal events and helps organizers unite the right people.</p>",
+          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service we are launching bfindr in spring 2017, a smart platform matching people to events. bfindr finds participants the ideal events and helps organizers unite the right people.</p>",
           "_styles": {
             "P": {
               "color": "#ffffff"
@@ -698,7 +698,7 @@
             "showButton": false
           },
           "title": "Our vision",
-          "text": "<p>The need to collect \"off-market\" informations is vital for professionals and companies</p>",
+          "text": "<p>The need to collect \"off-market\" information is vital for professionals and companies</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -844,7 +844,7 @@
             }
           },
           "title": "Professionals",
-          "text": "Feel the power of beeing at the right place,<br>at the right moment !",
+          "text": "Feel the power of being at the right place,<br>at the right moment !",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1022,7 +1022,7 @@
           },
           "title1": "Sign in, create your profile",
           "subtitle1": "<i>Log into your personnal account</i>",
-          "caption1": "Fill up your profile. The more informations you will give, the best matching we will guarantee !",
+          "caption1": "Fill up your profile. The more information you will give, the best matching we will guarantee !",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
