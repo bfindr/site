@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "companies.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -1203,7 +1203,7 @@
           },
           "_anchor": "msg-box5-1f",
           "_params": {
-            "imageSize": "38",
+            "imageSize": "45",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
@@ -1227,7 +1227,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/companies-1400x1219.png",
+              "src": "@PROJECT_PATH@/assets/images/companies-1400x1216.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1423,7 +1423,7 @@
           },
           "title1": "Register &amp; create your profile",
           "subtitle1": "<i>Log into your company account</i>",
-          "caption1": "Create accounts for your company, services and employees.<br>Share your visibility objectives.",
+          "caption1": "Create accounts for your company, services and employees.<br>Share your visibility objectives with us.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
