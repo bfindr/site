@@ -1071,14 +1071,16 @@ h6,
 #menu-1y .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box8-20 .mbr-section-title,
-#msg-box8-20 p {
+#content5-23 .mbr-section-title,
+#content5-23 p {
   color: #fff;
 }
-#msg-box8-20 .lead {
+#content5-23 .mbr-section-title {
+  font-size: 72px;
+  text-align: center;
+}
+#content5-23 P {
   color: #bfd541;
   font-size: 30px;
-}
-#msg-box8-20 .mbr-section-title {
-  font-size: 72px;
+  text-align: center;
 }
