@@ -270,7 +270,7 @@
           },
           "title1": "Professionals<br>",
           "subtitle1": "<span style=\"line-height: 1.7857;\">You are an ambitious professional, a student entering the marketplace, a new arrival to a city… </span><br><b>How do you build your network?</b><br>",
-          "caption1": "<i>By participating at the right networking opportunities !</i><br>",
+          "caption1": "<i>\"By participating at the right networking opportunities !\"</i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"professionals.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -287,7 +287,7 @@
           },
           "title2": "Companies<br>",
           "subtitle2": "Your employees are networking already. <div><b>How do you make them your ambassadors,</b></div><div><b>and have them best represent your company at events?</b></div>",
-          "caption2": "<i>By determining the events where you should be represented and sending the right person !</i>",
+          "caption2": "<i>\"By determining the events where you should be represented and sending the right person !\"</i>",
           "button2": "<a data-app-btn=\"true\" href=\"companies.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -303,7 +303,7 @@
           },
           "title3": "Organizers<br>",
           "subtitle3": "<span style=\"line-height: 1.7857;\">You are a professional business event organizer.<br>Your company, your association is creating an event.</span><br><span style=\"line-height: 1.7857;\"><b>How do you guarantee it’s success?</b></span><br>",
-          "caption3": "<i>By ensuring the presence of the right people !</i><br>",
+          "caption3": "<i>\"By ensuring the presence of the right people !\"</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"organizers.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -826,19 +826,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>Today we offer a varied and exhaustive source of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.</p><p>The more you share with us, the better we can help you. Your objectives, professional profile, social media, ticketing accounts, etc. are utilized to provide you with the most pertinent index and simplify your registration process.</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          }
+          "text": "<p>Today we offer a varied and exhaustive source of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.</p><p>The more you share with us, the better we can help you. Your objectives, professional profile, social media, ticketing accounts, etc. are utilized to provide you with the most pertinent index and simplify your registration process.</p>"
         }
       ]
     },
