@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "why.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 82,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -352,8 +352,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-1x",
+          "_name": "contacts1",
+          "_anchor": "contacts1-29",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -364,16 +364,27 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "3535 chemin queen marry, Montreal (QC)",
-              "placeId": "ChIJYQ5_7vAZyUwR6jKgF225y4Q",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>3535 Chemin Queen Mary<br>Montréal (QC) H3V 1H8<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;info@bfindr.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.montreal5a7.ca\" target=\"_blank\">Montreal5a7.ca</a></li></ul>"
+          "text1": "<strong>Address</strong><br>3535 Chemin Queen Mary<br>Montréal (QC) H3V 1H8<br>Canada",
+          "text2": "<strong>Contacts</strong><br>Email: info@bfindr.com<br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://www.montreal5a7.ca\" target=\"_blank\">Montreal5a7.ca</a><br>"
         }
       ]
     },
