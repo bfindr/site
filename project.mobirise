@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "what.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -78,7 +78,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">T</span>he<span style=\"font-weight: normal;\"> </span>key<div><span style=\"font-weight: normal;\">to entering the business network of a metropolis...</span></div>",
           "text": "Discover Premium Access to targeted business events",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"why.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
         },
         {
           "_styles": {
@@ -2102,7 +2102,7 @@
             "showCaption": true
           },
           "title": "bfindr, as easy as...",
-          "caption": "<p>1,2,3</p>"
+          "caption": "<p>1, 2, 3</p>"
         },
         {
           "_tags": [
