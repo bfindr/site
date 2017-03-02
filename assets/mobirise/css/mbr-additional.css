@@ -420,6 +420,9 @@ h6,
 #header4-1q .mbr-section-lead {
   color: #cccccc;
 }
+#header4-1q .mbr-section-title {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -692,10 +695,11 @@ h6,
 #msg-box5-1e H3 {
   color: #ffffff;
   text-align: left;
+  font-size: 72px;
 }
 #msg-box5-1e P {
-  color: #ffffff;
-  font-size: 25px;
+  color: #bfd541;
+  font-size: 30px;
   text-align: left;
 }
 #menu-z .hide-buttons .nav-btn {
