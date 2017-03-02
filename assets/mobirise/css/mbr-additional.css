@@ -417,6 +417,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #1386f4;
 }
+#header4-1q .mbr-section-lead {
+  color: #cccccc;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -485,12 +488,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header1-1 .mbr-section-lead {
-  color: #2969b0;
-}
-#header1-1 .mbr-section-title SPAN {
-  font-size: 60px;
 }
 #features6-1 H5 {
   font-size: 15px;
