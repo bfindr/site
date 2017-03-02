@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "companies.html",
+    "currentPage": "professionals.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -1154,7 +1154,7 @@
           "_anchor": "msg-box2-1d",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1524,7 +1524,7 @@
           "_anchor": "msg-box2-1j",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1895,7 +1895,7 @@
           "_anchor": "msg-box2-1o",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
