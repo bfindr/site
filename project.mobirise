@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "organizers.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -99,10 +99,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -144,7 +144,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -152,10 +152,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -458,7 +458,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -466,10 +466,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -672,7 +672,7 @@
           "_anchor": "menu-i",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -680,10 +680,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -885,7 +885,7 @@
             "H3": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             "P": {
               "color": "#bfd541",
@@ -960,10 +960,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1005,7 +1005,7 @@
           "_anchor": "menu-z",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1013,10 +1013,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1256,7 +1256,7 @@
             "H3": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             "P": {
               "color": "#bfd541",
@@ -1331,10 +1331,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1376,7 +1376,7 @@
           "_anchor": "menu-1g",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1384,10 +1384,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1622,7 +1622,7 @@
             "H3": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-size": "72px"
+              "font-size": "60px"
             },
             "P": {
               "color": "#bfd541",
@@ -1697,10 +1697,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1742,7 +1742,7 @@
           "_anchor": "menu-1l",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1750,10 +1750,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -2089,7 +2089,7 @@
           "_anchor": "menu-24",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.15",
+            "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2097,10 +2097,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
