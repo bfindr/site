@@ -882,7 +882,7 @@
           "_anchor": "social-buttons4-2d",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
