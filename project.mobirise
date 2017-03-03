@@ -557,8 +557,8 @@
           "_name": "content1",
           "_anchor": "content1-g",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p>Growing and nourishing a network is crucial to professional success in today’s market. <b>Can you afford to lose time?&nbsp;</b></p><p><br></p><p><b>Events are scattered among multiple sources</b>, connecting participants to pertinent events is complicated and inefficient. What if you could find all events, organizers and participants united under one simple and effective platform?&nbsp;</p><p><br></p><p><b>A successful and productive event unites the right people</b>, at the right place, at the right time.</p><p>What if a smart platform could utilize profiles to perfectly <b>match participants to events</b>, ensuring success for both parties?&nbsp;</p><p><br></p><p>Bfindr is your new and indispensable tool for effective event participation and promotion. <b>No more wasting time.</b></p>"
