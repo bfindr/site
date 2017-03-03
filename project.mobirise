@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "organizers.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 87,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -627,10 +627,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -867,6 +867,58 @@
             "bgColor": "#282828"
           },
           "text": "<p></p><p><span style=\"font-size: 17px; line-height: 25px;\"><b>Event Compatibility Ranking</b></span></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are utilizing your professional objectives, social network existing profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Montreal5a7\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/montreal5a7/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company-beta/5320778/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-2b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "youtube": "",
+            "facebook": "montreal5a7",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "4",
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         }
       ]
     },

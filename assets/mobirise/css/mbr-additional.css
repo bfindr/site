@@ -624,11 +624,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-i .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #menu-i .dropdown-item,
 #menu-i .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #menu-i .link:hover,
 #menu-i .dropdown-item:hover,
@@ -716,6 +716,10 @@ h6,
 #content1-y H2 {
   text-align: center;
   font-size: 25px;
+}
+#social-buttons4-2d .mbr-section-title,
+#social-buttons4-2d .btn-social {
+  color: #fff;
 }
 
 
