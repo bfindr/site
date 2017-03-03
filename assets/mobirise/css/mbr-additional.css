@@ -535,11 +535,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-2 .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #menu-2 .dropdown-item,
 #menu-2 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #menu-2 .link:hover,
 #menu-2 .dropdown-item:hover,
@@ -1052,11 +1052,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-24 .link {
-  font-size: 1.15rem;
+  font-size: 1rem;
 }
 #menu-24 .dropdown-item,
 #menu-24 .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.083rem;
 }
 #menu-24 .link:hover,
 #menu-24 .dropdown-item:hover,

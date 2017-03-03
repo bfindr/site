@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "why.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -286,7 +286,7 @@
             }
           },
           "title2": "Companies<br>",
-          "subtitle2": "Your employees are networking already. <div><b>How do you make them your ambassadors,</b></div><div><b>and have them best represent your company at events?</b></div>",
+          "subtitle2": "Your employees are networking already. <div><b>How do you make them your ambassadors,</b></div><div><b>and have them promote your company's visibility at events?</b></div>",
           "caption2": "<i>\"By determining the events where you should be represented and sending the right person !\"</i>",
           "button2": "<a data-app-btn=\"true\" href=\"companies.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media3": {
@@ -413,10 +413,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -561,7 +561,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>Growing and nourishing a network is crucial to professional success in today’s market. Can you afford to lose time?&nbsp;</p><p><br></p><p>Events are scattered among multiple sources, connecting participants to pertinent events is complicated and inefficient. What if you could find all events, organizers and participants united under one simple and effective platform?&nbsp;</p><p><br></p><p>A successful and productive event unites the right people, at the right place, at the right time.</p><p>What if a smart platform could utilize profiles to perfectly match participants to events, ensuring success for both parties?&nbsp;</p><p><br></p><p>Bfindr is your new and indispensable tool for effective event participation and promotion. No more wasting time.</p>"
         }
       ]
     },
@@ -838,7 +838,7 @@
             "showButton": false
           },
           "title": "Our exclusive<br>\"ECR\" technology",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p>Event Compatibility Ranking</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -866,7 +866,7 @@
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p></p><p><span style=\"font-size: 17px; line-height: 25px;\"><b>Event Compatibility Ranking</b></span></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are utilizing your professional objectives, social network existing profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
+          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</span><br></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1167,7 +1167,7 @@
             }
           },
           "title1": "Register &amp; create&nbsp;your profile",
-          "subtitle1": "<i>Be efficient and log in with your</i><br><i>LinkedIn account</i>",
+          "subtitle1": "<i>Save time and log in with your Linkedin account</i>",
           "caption1": "Fill up your profile.<br>The more you share with us, the better we will match you to awesome events!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1585,7 +1585,7 @@
           },
           "title4": "Collect feedback",
           "subtitle4": "<i>Knowledge is power</i>",
-          "caption4": "Acquire and exploit vital off-market information by sharing event experiences.",
+          "caption4": "Acquire and capitalize on vital off-market information by sharing event experiences, boosting your company's image and promoting a collaborative work environment!",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1920,7 +1920,7 @@
               "newWindow": false
             }
           },
-          "title2": "Create your event",
+          "title2": "Promote your event",
           "subtitle2": "Empower your events,<br>creating a unique profile!",
           "caption2": "Fill up your event profile to the max and&nbsp;let our exclusive ECR match your event to the best targeted audience.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2096,10 +2096,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2210,7 +2210,7 @@
           },
           "text1": "<h1>1-COMPILE</h1><p><b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).</p><p><b>bfindr does the compiling work for you.</b></p><p>​</p><p>We offer <b>easy access to the most complete event agenda</b> to this day, currently using up to 800 sources in greater Montreal to provide a unique service.</p>",
           "text2": "<h1>2-SELECT</h1><p><b>Accessible information, efficiently.</b></p><p>Made richer everyday, thanks to our compiling groundwork ...</p><p>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b></p><p>​</p><p><b>Made simple and effective with our ECR index.</b> Easy visualization with an event compatability pourcentage. Matching you to your event objectives!</p>",
-          "text3": "<h1>3-SIMPLIFY</h1><p><b>Facilitate access to information &amp; facilitate participation to the right events ...</b></p><p>​</p><p><b>Professional users and companies:</b></p><p>Buy tickets on the main platforms and register for events in one click.</p><p>Automatically transfer profile information useful to the organizer or service provider.</p><p>Reserve transportation and calculate itineraries.</p><p>​</p><p><b>Organizers:</b></p><p>Capacity to determine the best date for your event.</p><p>Check and reserve the best suited and available venues.</p><p>Personalize your event details and target invitee profiles for a successful event.</p>"
+          "text3": "<h1>3-SIMPLIFY</h1><p><b>Facilitate access to information &amp; facilitate participation to the right events ...</b></p><p>​</p><p><b>Professional users and companies:</b></p><p>Buy tickets on the main platforms and register for events in one click.</p><p>Automatically transfer profile information useful to the organizer or service provider.</p><p>Reserve transportation and calculate itineraries.</p><p>​</p><p><b>Organizers:</b></p><p><span style=\"line-height: 1.5;\">Determine the best date, check and reserve the best suited and available venues.</span><br></p><p>Personalize your event details and target invitee profiles for a successful event.</p><p>Receive updates on the status of invitees attendance &amp; send a reminder to ensure event success.&nbsp;</p>"
         }
       ]
     }
