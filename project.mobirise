@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -390,27 +390,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-2t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Today we offer a vabusiness event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers. The more you share with us, the better we can help you.</b></p><p>We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc...</p><p>to provide you with the most pertinent graphic index, and simplify your matching with an event.</p>",
           "_styles": {
             "P": {
-              "color": "#ffffff",
               "text-align": "center"
-            },
-            "SPAN": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "H2": {
-              "text-align": "center",
-              "font-size": "25px"
             }
-          },
-          "_anchor": "content1-2o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#282828"
-          },
-          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Today we offer a varied and exhaustive source of of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.&nbsp;</b></span><b style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</b></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
+          }
         },
         {
           "_tags": [
