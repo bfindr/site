@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -926,7 +926,7 @@
             "showBio": true
           },
           "title": "Our executive team",
-          "subtitle": "Dedicated to provide you the best service available",
+          "subtitle": "<br>Dedicated to provide you the best service available",
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#bfd541"
