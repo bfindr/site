@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -165,7 +165,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -855,7 +855,7 @@
               "text": "<p>Talented entrepreneur, 20 years experience in tech and business development.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/groupm-160x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/groupm-small-160x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
