@@ -439,11 +439,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-0 .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -517,6 +517,25 @@ h6,
 #features6-1 I {
   font-size: 15px;
 }
+#msg-box8-2n .mbr-section-title,
+#msg-box8-2n p {
+  color: #fff;
+}
+#msg-box8-2n .lead P {
+  color: #bfd541;
+}
+#content1-2o P {
+  color: #ffffff;
+  text-align: center;
+}
+#content1-2o SPAN {
+  color: #ffffff;
+  text-align: center;
+}
+#content1-2o H2 {
+  text-align: center;
+  font-size: 25px;
+}
 
 
 #menu-2 .hide-buttons .nav-btn {
@@ -535,11 +554,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-2 .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-2 .dropdown-item,
 #menu-2 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-2 .link:hover,
 #menu-2 .dropdown-item:hover,
@@ -588,6 +607,26 @@ h6,
 #menu-2 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box8-2l .mbr-section-title,
+#msg-box8-2l p {
+  color: #fff;
+}
+#msg-box8-2l .lead P {
+  color: #bfd541;
+}
+#msg-box8-2l .mbr-section-title {
+  font-size: 60px;
+}
+#content1-2m H3 {
+  color: #ffffff;
+}
+#content1-2m P {
+  color: #ffffff;
+}
+#content1-2m DIV {
+  color: #ffffff;
+  text-align: center;
+}
 #msg-box8-e .mbr-section-title,
 #msg-box8-e p {
   color: #fff;
@@ -597,7 +636,7 @@ h6,
   font-size: 30px;
 }
 #msg-box8-e .mbr-section-title {
-  font-size: 72px;
+  font-size: 60px;
 }
 
 
@@ -624,11 +663,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-i .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-i .dropdown-item,
 #menu-i .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-i .link:hover,
 #menu-i .dropdown-item:hover,
@@ -681,41 +720,8 @@ h6,
   color: #ffffff;
   text-align: center;
 }
-#msg-box8-1r .mbr-section-title,
-#msg-box8-1r p {
-  color: #fff;
-}
-#msg-box8-1r .lead P {
+#testimonials1-2s .mbr-section-subtitle {
   color: #bfd541;
-}
-#content1-w H3 {
-  color: #ffffff;
-}
-#content1-w P {
-  color: #ffffff;
-}
-#content1-w DIV {
-  color: #ffffff;
-  text-align: center;
-}
-#msg-box8-1t .mbr-section-title,
-#msg-box8-1t p {
-  color: #fff;
-}
-#msg-box8-1t .lead P {
-  color: #bfd541;
-}
-#content1-y P {
-  color: #ffffff;
-  text-align: center;
-}
-#content1-y SPAN {
-  color: #ffffff;
-  text-align: center;
-}
-#content1-y H2 {
-  text-align: center;
-  font-size: 25px;
 }
 #social-buttons4-2d .mbr-section-title,
 #social-buttons4-2d .btn-social {
@@ -749,11 +755,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-z .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
@@ -850,11 +856,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1g .link {
-  font-size: 1rem;
+  font-size: 1.15rem;
 }
 #menu-1g .dropdown-item,
 #menu-1g .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.245rem;
 }
 #menu-1g .link:hover,
 #menu-1g .dropdown-item:hover,
@@ -948,11 +954,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1l .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-1l .dropdown-item,
 #menu-1l .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-1l .link:hover,
 #menu-1l .dropdown-item:hover,
@@ -1052,11 +1058,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-24 .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-24 .dropdown-item,
 #menu-24 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-24 .link:hover,
 #menu-24 .dropdown-item:hover,
@@ -1105,8 +1111,15 @@ h6,
 #menu-24 .close-icon::after {
   background-color: #ffffff;
 }
-#content7-27 P {
-  font-size: 16px;
+#features4-2r .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2r .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-2r P {
+  text-align: left;
 }
 
 
@@ -1126,11 +1139,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-2f .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-2f .dropdown-item,
 #menu-2f .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-2f .link:hover,
 #menu-2f .dropdown-item:hover,
@@ -1200,11 +1213,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-2i .link {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 #menu-2i .dropdown-item,
 #menu-2i .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.300rem;
 }
 #menu-2i .link:hover,
 #menu-2i .dropdown-item:hover,

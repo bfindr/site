@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "companies.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 93,
+    "uniqCompNum": 101,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -99,10 +99,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -144,7 +144,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -165,7 +165,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site/index.html",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -176,7 +176,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -349,6 +349,70 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#bfd541"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Our exclusive<br>\"ECR\" technology",
+          "text": "<p>Event Compatibility Ranking</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#282828"
+          },
+          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Today we offer a varied and exhaustive source of of business event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers.&nbsp;</b></span><b style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</b></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -413,10 +477,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -458,7 +522,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -479,7 +543,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -490,7 +554,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -514,12 +578,77 @@
             ".mbr-section-title, p": {
               "color": "#fff"
             },
+            ".lead P": {
+              "color": "#bfd541"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2l",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Our vision",
+          "text": "<p>The need to collect \"off-market\" information is vital for professionals and companies</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-2m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#282828"
+          },
+          "text": "You want to find new clients, markets, jobs or the dreamed of collaborator?<div>Need to discover new providers and strategic partners?</div><div><b>Time is short, and selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</b></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
             ".lead": {
               "color": "#bfd541",
               "font-size": "30px"
             },
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -547,7 +676,7 @@
             "showButton": false
           },
           "title": "Be efficient, stay focused !",
-          "text": "Time is not an inexhaustible resource",
+          "text": "Time is a limited resource",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -627,10 +756,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -672,7 +801,7 @@
           "_anchor": "menu-i",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -693,7 +822,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -704,7 +833,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -719,73 +848,99 @@
           },
           "_anchor": "content1-u",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</p><p>To maximize on this service, we are launching bfindr, a smart platform matching people to events.<br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
+          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, <b>we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</b></p><p>To maximize on this service, we are <b>launching bfindr in Spring 2017, a smart platform matching people to events.</b><br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "color": "#bfd541"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>Talented entrepreneur, 20 years experience in tech and business development.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/groupm-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "JB Deshayes",
+              "authorBio": "CEO - Partner"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
+            {
+              "text": "<p>Confirmed linguist (Paris, Sorbonne) she ensures the coherency of our communications. Expert in content management, she shapes and improves our operational systems.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/sara-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Sara Shabanel",
+              "authorBio": "COO"
+            },
+            {
+              "text": "<p>iOS Developer, Tech &amp; Startup enthusiast.</p><p> Founder &amp; CEO at NM LABS.</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/nm-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Nicolas &nbsp;Mareschal",
+              "authorBio": "CTO"
+            }
+          ],
+          "_anchor": "testimonials1-2s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "showSubtitle": true,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
           },
-          "title": "Our vision",
-          "text": "<p>The need to collect \"off-market\" information is vital for professionals and companies</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
+          "title": "Our executive team",
+          "subtitle": "Dedicated to provide you the best service available",
           "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "text-align": "center"
+            ".mbr-section-subtitle": {
+              "color": "#bfd541"
             }
-          },
-          "_anchor": "content1-w",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#282828"
-          },
-          "text": "You want to find new clients, markets, jobs or the dreamed of collaborator?<div>Need to discover new providers and strategic partners?</div><div>Time is short, and selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</div>"
+          }
         },
         {
           "_name": "footer1",
@@ -803,70 +958,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 bfindr."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "color": "#bfd541"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Our exclusive<br>\"ECR\" technology",
-          "text": "<p>Event Compatibility Ranking</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            "H2": {
-              "text-align": "center",
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "content1-y",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#282828"
-          },
-          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The more you share with us, the better we can help you.</span><br></p><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc... </span></div><div style=\"text-align: center;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">to provide you with the most pertinent graphic index, and simplify your matching with an event.</span></div><p></p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1012,10 +1103,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1057,7 +1148,7 @@
           "_anchor": "menu-z",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1078,7 +1169,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1089,7 +1180,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1200,7 +1291,7 @@
               "newWindow": false
             }
           },
-          "title3": "<span style=\"font-weight: normal;\"><i>To Go</i> </span>or<span style=\"font-weight: normal;\"> <i>Not</i> <i>To Go</i>?!</span>",
+          "title3": "<span style=\"font-weight: normal;\">To Go </span>or<span style=\"font-weight: normal;\"> Not To Go?!</span>",
           "subtitle3": "<i>Select in one click!</i>",
           "caption3": "Register easily and automatically transmit your up-to-date profile to the organizer.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1383,10 +1474,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1428,7 +1519,7 @@
           "_anchor": "menu-1g",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1449,7 +1540,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1460,7 +1551,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1500,7 +1591,7 @@
           "_anchor": "features7-1v",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -1749,10 +1840,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1794,7 +1885,7 @@
           "_anchor": "menu-1l",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1815,7 +1906,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1826,7 +1917,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2096,10 +2187,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2141,7 +2232,7 @@
           "_anchor": "menu-24",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2162,7 +2253,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2173,7 +2264,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2193,24 +2284,140 @@
           "text": "Copyright (c) 2017 bfindr."
         },
         {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
+          "_name": "features4",
+          "_anchor": "features4-2r",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "down",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
             }
           },
-          "_anchor": "content7-27",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+          "title1": "1-COMPILE",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).<br>bfindr does the compiling work for you.<br>​<br>We offer easy access to the most complete event agenda to this day, currently using up to 800 sources in greater Montreal to provide a unique service.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
           },
-          "text1": "<h1>1-COMPILE</h1><p><b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).</p><p><b>bfindr does the compiling work for you.</b></p><p>​</p><p>We offer <b>easy access to the most complete event agenda</b> to this day, currently using up to 800 sources in greater Montreal to provide a unique service.</p>",
-          "text2": "<h1>2-SELECT</h1><p><b>Accessible information, efficiently.</b></p><p>Made richer everyday, thanks to our compiling groundwork ...</p><p>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b></p><p>​</p><p><b>Made simple and effective with our ECR index.</b> Easy visualization with an event compatability pourcentage. Matching you to your event objectives!</p>",
-          "text3": "<h1>3-SIMPLIFY</h1><p><b>Facilitate access to information &amp; facilitate participation to the right events ...</b></p><p>​</p><p><b>Professional users and companies:</b></p><p>Buy tickets on the main platforms and register for events in one click.</p><p>Automatically transfer profile information useful to the organizer or service provider.</p><p>Reserve transportation and calculate itineraries.</p><p>​</p><p><b>Organizers:</b></p><p><span style=\"line-height: 1.5;\">Determine the best date, check and reserve the best suited and available venues.</span><br></p><p>Personalize your event details and target invitee profiles for a successful event.</p><p>Receive updates on the status of invitees attendance &amp; send a reminder to ensure event success.&nbsp;</p>"
+          "title2": "2-SELECT",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>Accessible information, efficiently.</b><br>Made richer everyday, thanks to our compiling groundwork ...<br>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b><br>​<br><b>Made simple and effective with our ECR index</b>. Easy visualization with an event compatability pourcentage. Matching you to your event objectives!<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "3-SIMPLIFY",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Facilitate access to information &amp; facilitate participation to the right events ...</b><br>​<br><b>Professional users and companies:</b><br>• Buy tickets on the main platforms and register for events in one click.<br>• Automatically transfer profile information useful to the organizer or service provider.<br>• Reserve transportation and calculate itineraries.<br><b>Organizers:</b><br>• Determine the best date for your event<br>• Check and reserve the best suited and available venues.<br>• Personalize your event details and target invitee profiles for a successful event.<br>• Receive updates on the status of invitees attendance &amp; send a reminder to ensure event success.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -2239,10 +2446,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2284,7 +2491,7 @@
           "_anchor": "menu-2f",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2305,7 +2512,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2316,7 +2523,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2340,6 +2547,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-2h",
           "_params": {
             "labelsColor": "#232323",
@@ -2385,12 +2597,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>"
         }
       ]
     },
@@ -2419,10 +2626,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2464,7 +2671,7 @@
           "_anchor": "menu-2i",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2485,7 +2692,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://bfindr.github.io/site",
+              "link": "http://www.bfindr.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2496,7 +2703,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Who ?</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"why.html\">Why ?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features6-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">You</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"professionals.html\">Professionals</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"companies.html\">Companies</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"organizers.html\">Organizers</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"what.html\" aria-expanded=\"false\">What ?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"us.html\" aria-expanded=\"false\">Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
