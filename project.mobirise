@@ -843,7 +843,7 @@
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, <b>we created Montreal 5a7, today the premier specialized event agenda in greater Montreal.</b></p><p>To maximize on this service, we are <b>launching bfindr in Spring 2017, a smart platform matching people to events.</b><br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
+          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, <b>we created Montreal 5a7,</b></p><p><b>today the premier specialized event agenda in greater Montreal.</b></p><p>To maximize on this service, we are <b>launching bfindr in Spring 2017, a smart platform matching people to events.</b><br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
         },
         {
           "_tags": [
