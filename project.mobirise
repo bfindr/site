@@ -320,6 +320,9 @@
             },
             "SPAN": {
               "color": "#000000"
+            },
+            "H5": {
+              "font-size": "16px"
             }
           }
         },
@@ -369,7 +372,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p><b>Today we offer a vabusiness event information, and to capitalize on our experience we have developed a valuable tool for attendees and organizers. The more you share with us, the better we can help you.</b></p><p>We utilize your professional objectives, existing social network profile (LinkedIn), ticketing platform accounts, etc...</p><p>to provide you with the most pertinent graphic index, and simplify your matching with an event.</p>",
           "_styles": {
