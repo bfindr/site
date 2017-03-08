@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "what.html",
+    "currentPage": "keepmeposted.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -513,7 +513,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -607,7 +607,7 @@
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>You want to find new clients, markets, jobs or the dreamed of collaborator?</p><p></p><div><br></div><div>Need new providers and strategic partners?</div><div><br></div><div><b>Time is short.</b></div><div><b>Selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</b></div><p></p>"
+          "text": "<p>You want to find new clients, markets, jobs or the dreamed of collaborator?</p><p></p><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Need new providers and strategic partners?</span><br></div><div><br></div><div><b>Time is short.</b></div><div><b>Selecting the ideal event should be as quick as booking the cheapest flight and participation should take just a couple of clicks.</b></div><p></p>"
         },
         {
           "_styles": {
@@ -794,7 +794,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1164,7 +1164,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1537,7 +1537,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1906,7 +1906,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2255,7 +2255,7 @@
               "src": "@PROJECT_PATH@/assets/images/bfindr-logo-rgb-couleur-300dpi-1-263x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "http://www.bfindr.com",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2577,7 +2577,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Thanks for your interest in bfindr",
           "form": {
             "action": "info@bfindr.com",
             "alerts": {
