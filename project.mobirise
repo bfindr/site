@@ -203,7 +203,7 @@
           "_name": "features6",
           "_anchor": "features6-2u",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
