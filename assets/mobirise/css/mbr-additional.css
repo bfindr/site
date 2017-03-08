@@ -829,11 +829,11 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #menu-1g .link {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 #menu-1g .dropdown-item,
 #menu-1g .nav-dropdown-sm .link {
-  font-size: 1.245rem;
+  font-size: 1.300rem;
 }
 #menu-1g .link:hover,
 #menu-1g .dropdown-item:hover,
@@ -1088,8 +1088,8 @@ h6,
   color: #bcbcbc;
 }
 #features4-2r .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 #features4-2r P {
   text-align: left;

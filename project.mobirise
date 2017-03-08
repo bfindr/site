@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "us.html",
+    "currentPage": "what.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -1443,10 +1443,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2258,8 +2258,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "P": {
               "text-align": "left"
@@ -2271,13 +2271,13 @@
           "_name": "features4",
           "_anchor": "features4-2r",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#ffffff",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
