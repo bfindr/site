@@ -587,9 +587,10 @@ h6,
 }
 #msg-box8-2l .lead P {
   color: #bfd541;
+  font-size: 24px;
 }
 #msg-box8-2l .mbr-section-title {
-  font-size: 60px;
+  font-size: 48px;
 }
 #content1-2m H3 {
   color: #ffffff;
@@ -607,10 +608,10 @@ h6,
 }
 #msg-box8-e .lead {
   color: #bfd541;
-  font-size: 30px;
+  font-size: 24px;
 }
 #msg-box8-e .mbr-section-title {
-  font-size: 60px;
+  font-size: 48px;
 }
 
 
