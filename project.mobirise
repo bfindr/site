@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -676,7 +676,8 @@
               "color": "#fff"
             },
             ".lead P": {
-              "color": "#bfd541"
+              "color": "#bfd541",
+              "font-size": "24px"
             }
           },
           "_tags": [
@@ -697,7 +698,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -813,7 +814,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "18px"
             }
           },
           "_anchor": "content1-u",
@@ -822,7 +824,7 @@
             "paddingBottom": "2",
             "bgColor": "#282828"
           },
-          "text": "<p>In 2014, seeing the need for an information service in the domain of business events, <b>we created Montreal 5a7,</b></p><p><b>today the premier specialized event agenda in greater Montreal.</b></p><p>To maximize on this service, we are <b>launching bfindr in Spring 2017, a smart platform matching people to events.</b><br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
+          "text": "<p>In 2014, seeing the need for an information service in the domain of business events,</p><p><b>we created Montreal 5a7,&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">today the premier specialized event agenda in greater Montreal.</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p>To maximize on this service, we are <b>launching bfindr in Spring 2017, a smart platform matching people to events.</b><br>bfindr finds participants and companies the ideal events and helps organizers unite the right people.</p>"
         },
         {
           "_tags": [
@@ -883,6 +885,24 @@
               },
               "authorName": "Nicolas &nbsp;Mareschal",
               "authorBio": "CTO"
+            },
+            {
+              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">10 years experience in event marketing and organization.</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">In charge of relationship with or customers.</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/joelle-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Joelle Hoedenaeken",
+              "authorBio": " Community Manager<br>"
             }
           ],
           "_anchor": "testimonials1-2s",
@@ -899,7 +919,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
-            "count": 3,
+            "count": "4",
             "showImages": true,
             "showName": true,
             "showBio": true
@@ -908,7 +928,8 @@
           "subtitle": "<br>Dedicated to provide you the best service available",
           "_styles": {
             ".mbr-section-subtitle": {
-              "color": "#bfd541"
+              "color": "#bfd541",
+              "font-size": "24px"
             }
           }
         },

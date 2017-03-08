@@ -620,6 +620,7 @@ h6,
 }
 #msg-box8-1s .lead P {
   color: #bfd541;
+  font-size: 24px;
 }
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
@@ -693,9 +694,11 @@ h6,
 #content1-u P {
   color: #ffffff;
   text-align: center;
+  font-size: 18px;
 }
 #testimonials1-2s .mbr-section-subtitle {
   color: #bfd541;
+  font-size: 24px;
 }
 #social-buttons4-2d .mbr-section-title,
 #social-buttons4-2d .btn-social {
