@@ -1,10 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-
-
-
-
 
 
 
@@ -492,30 +487,14 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features6-1 H5 {
-  font-size: 15px;
-  color: #5b5b5b;
-  font-family: 'Oxygen', sans-serif;
-  text-align: center;
+#features6-2u P {
+  color: #000000;
 }
-#features6-1 P {
+#features6-2u I {
   color: #009ee3;
-  font-size: 16px;
-  font-family: 'Oxygen', sans-serif;
 }
-#features6-1 DIV {
-  font-size: 15px;
-}
-#features6-1 H4 {
-  font-size: 30px;
-  font-family: 'Roboto', sans-serif;
-}
-#features6-1 B {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 15px;
-}
-#features6-1 I {
-  font-size: 15px;
+#features6-2u SPAN {
+  color: #000000;
 }
 #msg-box8-2n .mbr-section-title,
 #msg-box8-2n p {

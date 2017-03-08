@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/bfindr-logo-carre-b-couleur-rgb-72dpi-2-128x128.png",
     "noImageResize": "",
@@ -201,45 +201,14 @@
             "Theme"
           ],
           "_name": "features6",
-          "_styles": {
-            "H5": {
-              "font-size": "15px",
-              "color": "#5b5b5b",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#009ee3",
-              "font-size": "16px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "DIV": {
-              "font-size": "15px"
-            },
-            "H4": {
-              "font-size": "30px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "B": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
-            },
-            "I": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "features6-1",
+          "_anchor": "features6-2u",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -262,15 +231,13 @@
               "name": "user",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "size": 0,
-              "newWindow": false,
-              "color": "#faaf40"
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "title1": "Professionals<br>",
-          "subtitle1": "<span style=\"line-height: 1.7857;\">You are an ambitious professional, a student entering the marketplace, a new arrival to a city… </span><br><b>How do you build your network?</b><br>",
-          "caption1": "<i>\"By participating at the right networking opportunities !\"</i><br>",
+          "title1": "Professionals",
+          "subtitle1": "You are an ambitious professional, a student entering the marketplace, a new arrival to a city… ",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">How do you build your network?</span><br><br><i>\"By participating at the right networking opportunities !\"</i><br>",
           "button1": "<a data-app-btn=\"true\" href=\"professionals.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -279,15 +246,13 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "size": 0,
-              "newWindow": false,
-              "color": "#faaf40"
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "title2": "Companies<br>",
-          "subtitle2": "Your employees are networking already. <div><b>How do you make them your ambassadors,</b></div><div><b>and have them promote your company's visibility at events?</b></div>",
-          "caption2": "<i>\"By determining the events where you should be represented and sending the right person !\"</i>",
+          "title2": "Companies",
+          "subtitle2": "Your employees are networking already.",
+          "caption2": "How do you make them your ambassadors,<br>and have them promote your company's visibility at events?<br><br><i>\"By participating at the right networking opportunities !\"</i><br>",
           "button2": "<a data-app-btn=\"true\" href=\"companies.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -297,13 +262,12 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#faaf40"
+              "size": 0
             }
           },
-          "title3": "Organizers<br>",
-          "subtitle3": "<span style=\"line-height: 1.7857;\">You are a professional business event organizer.<br>Your company, your association is creating an event.</span><br><span style=\"line-height: 1.7857;\"><b>How do you guarantee it’s success?</b></span><br>",
-          "caption3": "<i>\"By ensuring the presence of the right people !\"</i><br>",
+          "title3": "Organizers",
+          "subtitle3": "You are a professional business event organizer.<div>Your company, your association is creating an event.</div>",
+          "caption3": "How do you guarantee it’s success?<br><br><i>\"By ensuring the presence of the right people !\"</i><br>",
           "button3": "<a data-app-btn=\"true\" href=\"organizers.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
           "media4": {
             "iconFont": {
@@ -346,7 +310,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "I": {
+              "color": "#009ee3"
+            },
+            "SPAN": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {
