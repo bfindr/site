@@ -791,6 +791,7 @@ h6,
 }
 #features7-1b .card-subtitle {
   color: #faaf40;
+  font-size: 15px;
 }
 #features7-1b .iconbox {
   background-color: #1386f4;
@@ -798,6 +799,7 @@ h6,
 }
 #features7-1b .card-subtitle I {
   color: #faaf40;
+  font-size: 15px;
 }
 #features7-1b H4 {
   font-size: 22px;
@@ -900,6 +902,9 @@ h6,
 #features7-1v H4 {
   font-size: 22px;
 }
+#features7-1v .card-subtitle I {
+  font-size: 15px;
+}
 #msg-box2-1j .mbr-section-title {
   color: #fff;
   font-size: 36px;
@@ -990,6 +995,7 @@ h6,
 }
 #features7-1n .card-subtitle {
   color: #faaf40;
+  font-size: 15px;
 }
 #features7-1n .iconbox {
   background-color: #1386f4;
@@ -997,6 +1003,7 @@ h6,
 }
 #features7-1n .card-subtitle I {
   color: #faaf40;
+  font-size: 15px;
 }
 #features7-1n H4 {
   font-size: 22px;

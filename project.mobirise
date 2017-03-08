@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "why.html",
+    "currentPage": "organizers.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -1201,14 +1201,16 @@
           ],
           "_styles": {
             ".card-subtitle": {
-              "color": "#faaf40"
+              "color": "#faaf40",
+              "font-size": "15px"
             },
             ".iconbox": {
               "background-color": "@primaryColor",
               "border-color": "@primaryColor"
             },
             ".card-subtitle I": {
-              "color": "#faaf40"
+              "color": "#faaf40",
+              "font-size": "15px"
             },
             "H4": {
               "font-size": "22px"
@@ -1253,7 +1255,7 @@
             }
           },
           "title1": "Register &amp; create&nbsp;your profile",
-          "subtitle1": "<i>Save time and log in with your Linkedin account</i>",
+          "subtitle1": "<i>Save time &amp; log in with your Linkedin account</i>",
           "caption1": "Fill up your profile.<br>The more you share with us, the better we will match you to awesome events!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -1580,6 +1582,9 @@
             },
             "H4": {
               "font-size": "22px"
+            },
+            ".card-subtitle I": {
+              "font-size": "15px"
             }
           },
           "_name": "features7",
@@ -1938,14 +1943,16 @@
           ],
           "_styles": {
             ".card-subtitle": {
-              "color": "#faaf40"
+              "color": "#faaf40",
+              "font-size": "15px"
             },
             ".iconbox": {
               "background-color": "@primaryColor",
               "border-color": "@primaryColor"
             },
             ".card-subtitle I": {
-              "color": "#faaf40"
+              "color": "#faaf40",
+              "font-size": "15px"
             },
             "H4": {
               "font-size": "22px"
@@ -2007,7 +2014,7 @@
             }
           },
           "title2": "Promote your event",
-          "subtitle2": "Empower your events,<br>creating a unique profile!",
+          "subtitle2": "<i>Empower your events,<br>creating a unique profile!</i>",
           "caption2": "Fill up your event profile to the max and&nbsp;let our exclusive ECR match your event to the best targeted audience.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -2040,8 +2047,8 @@
               "newWindow": false
             }
           },
-          "title4": "Event success !!!",
-          "subtitle4": "Ensuring the optimum settings",
+          "title4": "Event success !",
+          "subtitle4": "<i>Create the optimum environnement!</i>",
           "caption4": "bfindr, the ultimate digital platform, uniting the right people, at the right place, at the right time.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
