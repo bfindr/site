@@ -2135,12 +2135,12 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "72px",
+              "font-size": "60px",
               "text-align": "center"
             },
             "P": {
               "color": "#bfd541",
-              "font-size": "30px",
+              "font-size": "24px",
               "text-align": "center"
             }
           },
