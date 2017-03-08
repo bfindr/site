@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "organizers.html",
+    "currentPage": "what.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -2291,8 +2291,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#1386f4",
+              "border-color": "#1386f4"
             },
             "P": {
               "text-align": "left"
@@ -2304,7 +2304,7 @@
           "_name": "features4",
           "_anchor": "features4-2r",
           "_params": {
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#1386f4",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -2335,13 +2335,13 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "black",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
           "title1": "1-COMPILE",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).<br>bfindr does the compiling work for you.<br>​<br>We offer easy access to the most complete event agenda to this day, currently using up to 800 sources in greater Montreal to provide a unique service.<br>",
+          "caption1": "<b>Advantageous events for professional networking are scattered among sources</b> (ticketing sites, chambers of commerce, professional orders and associations, clubs or networking platforms, etc ...).<br><br><b>bfindr does the compiling work for you.</b><br>​<br>We offer easy access to the most complete event agenda to this day, currently using up to 800 sources in greater Montreal to provide a unique service.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -2352,12 +2352,12 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title2": "2-SELECT",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Accessible information, efficiently.</b><br>Made richer everyday, thanks to our compiling groundwork ...<br>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b><br>​<br><b>Made simple and effective with our ECR index</b>. Easy visualization with an event compatability pourcentage. Matching you to your event objectives!<br>",
+          "caption2": "<b>Accessible information, efficiently.</b><br>Made richer everyday, thanks to our compiling groundwork.<br><br>We are constantly adjusting our agendas ... <b>There are countless events, how do we choose the right ones?</b><br>​<br><b>Made simple and effective with our ECR index</b>. Easy visualization with an event compatability pourcentage. Matching you to your event objectives!<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2368,7 +2368,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black"
+              "color": "#ffffff"
             }
           },
           "title3": "3-SIMPLIFY",
