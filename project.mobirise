@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "us.html",
     "name": "bfindrv1",
     "theme": {
       "name": "mobirise3",
@@ -657,7 +657,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>Growing and nourishing a network is crucial to professional success in today’s market. <b>Can you afford to lose time?&nbsp;</b></p><p><br></p><p><b>Events are scattered among multiple sources</b>, connecting participants to pertinent events is complicated and inefficient. What if you could find all events, organizers and participants united under one simple and effective platform?&nbsp;</p><p><br></p><p><b>A successful and productive event unites the right people</b>, at the right place, at the right time.</p><p>What if a smart platform could utilize profiles to perfectly <b>match participants to events</b>, ensuring success for both parties?&nbsp;</p><p><br></p><p>Bfindr is your new and indispensable tool for effective event participation and promotion. <b>No more wasting time.</b></p>"
         }
@@ -891,7 +891,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -972,7 +972,7 @@
             "postToLoad": "4",
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.6,
