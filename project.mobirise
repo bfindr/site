@@ -887,7 +887,7 @@
               "authorBio": "CTO"
             },
             {
-              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">10 years experience in event marketing and organization.</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">In charge of relationship with or customers.</span><br></p>",
+              "text": "10 years experience in event marketing and organization.<div><br></div><div>In charge of customer relations.</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/joelle-160x160.jpg",
@@ -901,8 +901,8 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Joelle Hoedenaeken",
-              "authorBio": " Community Manager<br>"
+              "authorName": "Joelle Hoedenaeken<br><span style=\"font-weight: normal;\">Community manager</span><br><br>",
+              "authorBio": ""
             }
           ],
           "_anchor": "testimonials1-2s",
@@ -925,11 +925,14 @@
             "showBio": true
           },
           "title": "Our executive team",
-          "subtitle": "<br>Dedicated to provide you the best service available",
+          "subtitle": "<br>Providing you the best service available",
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#bfd541",
               "font-size": "24px"
+            },
+            ".card-footer > div SPAN": {
+              "color": "#a7a7a7"
             }
           }
         },

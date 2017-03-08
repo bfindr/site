@@ -700,6 +700,9 @@ h6,
   color: #bfd541;
   font-size: 24px;
 }
+#testimonials1-2s .card-footer > div SPAN {
+  color: #a7a7a7;
+}
 #social-buttons4-2d .mbr-section-title,
 #social-buttons4-2d .btn-social {
   color: #fff;
